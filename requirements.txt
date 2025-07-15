@@ -1,0 +1,5 @@
+openai
+wikipedia-api
+arxiv
+Flask
+python-dotenv
